@@ -26,6 +26,6 @@
   library("tidyverse") #The dplyr package is part of this package.
   library("XLConnect") #import Excel files
   library("dplyr")
-  #update.packages()
+  update.packages()
 
   
