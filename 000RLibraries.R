@@ -1,7 +1,7 @@
   #Download libraries
   ###################
   
-  # This program you don't have to run each time.
+  # This program don't have to be run each time.
   # If there is a new version of R it's worth checking if there is also an update of the package
   # Packages (zip files) are downloaded to a temporary folder C:\Users\srzten\AppData\Local\Temp\RtmpAXt6XV\downloaded_packages
   # Packages are automaticaly unpacked in C:\Program Files\R\R-3.5.1\library: .libPaths()
