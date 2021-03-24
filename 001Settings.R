@@ -1,10 +1,5 @@
 
-  
-  companyName <- "Clal"
-  ageDef <- "ageNearest"
-  
-  obsstart <- as.Date("2012/01/01")
-  obsend <- as.Date("2018/01/01")
+
   
   #Set path and working folder
   path <- "C:/Users/Marco/Desktop/Github/R_Exercises"
