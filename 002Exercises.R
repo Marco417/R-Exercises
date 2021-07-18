@@ -2,12 +2,12 @@
   #100Exercises.R
   #############################################
   
-  #1. Import the CSV file ES_presentation_data1.csv --> it's stored in the data folder
+  #1. Import the CSV file Insurance_Data.csv --> it's stored in the data folder
   
   path <- "C:/Users/Marco/Desktop/Github/R_Exercises" 
   data_path <- paste0(path,"/data") 
   
-  csv.file <- file.path(paste0(data_path,"/ES_presentation_data1.csv"))
+  csv.file <- file.path(paste0(data_path,"/Insurance_Data.csv"))
   dfCSV <- read.csv(csv.file, sep = ";") 
   
   #############################################################################################################################
